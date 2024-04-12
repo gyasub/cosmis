@@ -1,0 +1,9 @@
+{
+    "ensembl_cds": "./downloaded_files/Homo_sapiens.GRCh38.cds.all.fa.gz",
+    "uniprot_pep": "./downloaded_files/UP000005640_9606.fasta.gz",
+    "gnomad_variants": "./downloaded_files/gnomad_variant_counts_hg38.json",
+    "uniprot_to_enst": "./downloaded_files/uniprot_to_enst.json",
+    "enst_mp_counts": "./downloaded_files/mutation_probs.tsv",
+    "uniprot_to_ensg": "./downloaded_files/uniprot_to_enst_2.json",
+    "uniprot_pep2": "./downloaded_files/folddock_fasta_uniprot.fasta.gz"
+}
